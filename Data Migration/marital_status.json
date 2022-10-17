@@ -1,0 +1,42 @@
+[
+  {
+    "model": "basic.maritalstatus",
+    "pk": 1,
+    "fields": {
+      "created_at": "2022-03-30T01:51:12.409Z",
+      "modified_at": "2022-03-30T01:51:12.409Z",
+      "active": true,
+      "name": "Solteiro"
+    }
+  },
+  {
+    "model": "basic.maritalstatus",
+    "pk": 2,
+    "fields": {
+      "created_at": "2022-03-30T01:51:12.409Z",
+      "modified_at": "2022-03-30T01:51:12.409Z",
+      "active": true,
+      "name": "Casado"
+    }
+  },
+  {
+    "model": "basic.maritalstatus",
+    "pk": 3,
+    "fields": {
+      "created_at": "2022-03-30T01:51:12.409Z",
+      "modified_at": "2022-03-30T01:51:12.409Z",
+      "active": true,
+      "name": "Divorciado"
+    }
+  },
+  {
+    "model": "basic.maritalstatus",
+    "pk": 4,
+    "fields": {
+      "created_at": "2022-03-30T01:51:12.409Z",
+      "modified_at": "2022-03-30T01:51:12.409Z",
+      "active": true,
+      "name": "Viúvo"
+    }
+  }
+]

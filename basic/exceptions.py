@@ -1,0 +1,1 @@
+# TODO: aqui criamos exceções personalizadas

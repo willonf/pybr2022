@@ -1,0 +1,1 @@
+# TODO: aqui podemos escrever funções específicas semelhante ao functions do Django
